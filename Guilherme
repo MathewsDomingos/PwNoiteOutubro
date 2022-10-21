@@ -1,0 +1,3 @@
+let fork = ['f','o','r','k'];
+
+for (int i = 0; i < fork.length ; i++) console.log(fork[i]);
